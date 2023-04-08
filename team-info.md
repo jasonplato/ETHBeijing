@@ -1024,7 +1024,7 @@ https://github.com/ModelLabs/BlockModel-frontend/tree/eth-beijing
 是的，我们原先已经在开发 Tokenomics 模型化的相关功能，反应在前端就是 Create 页面。我们采用了 ABM (Agent-Based Model)的方式，抽象建模了四个 Agent，用户可以设置 Agent 的参数以及它们之间的互动，完成一个 Tokenomics 的建模。基于模型，我们开发了仿真运算器。模型仿真过程中产生的数据，我们也提供数据可视化面板供用户查看和分析。
 ## 41.9 项目 Demo 链接
 我们推出的 Beta 版链接
-https://block-model.com
+https://block-model.com   (访问不了的话可以走: http://54.67.58.4:8080/)
 # 42 D/Wallet
 * 简介：D/Wallet
 * 目标：会认识很多开发者朋友 会进一步完善wallet
